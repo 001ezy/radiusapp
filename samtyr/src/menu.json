@@ -1,0 +1,556 @@
+[
+  {
+    "id": "salads",
+    "name": [
+      "Салаты",
+      "Salads"
+    ],
+    "items": [
+      {
+        "name": [
+          "Цезарь с курицей",
+          "Chicken Caesar Salad"
+        ],
+        "description": [
+          "Салат айсберг, соус «Цезарь», перепелиное яйцо, черри, пармезан, сухари",
+          "Iceberg lettuce, Caesar dressing, quail egg, cherry tomatoes, Parmesan, croutons"
+        ],
+        "price": "650"
+      },
+      {
+        "name": [
+          "Греческий салат",
+          "Greek Salad"
+        ],
+        "description": [
+          "Огурец, помидор, сладкий перец, листья салата, оливковое масло, лимонный сок",
+          "Cucumber, tomato, sweet pepper, lettuce, olive oil, lemon juice"
+        ],
+        "price": "525"
+      },
+      {
+        "name": [
+          "Зелёный салат",
+          "Green Salad"
+        ],
+        "description": [
+          "Микс салата, авокадо, огурец, черри, брокколи, пармезан, семечки",
+          "Mixed greens, avocado, cucumber, cherry tomatoes, broccoli, Parmesan, seeds"
+        ],
+        "price": "600"
+      }
+    ]
+  },
+  {
+    "id": "soups",
+    "name": [
+      "Супы",
+      "Soups"
+    ],
+    "items": [
+      {
+        "name": [
+          "Том-ям",
+          "Tom Yum Soup"
+        ],
+        "description": [
+          "Паста том-ям, креветки, лемонграсс, листья лайма, кокосовое молоко",
+          "Tom Yum paste, shrimp, lemongrass, lime leaves, coconut milk"
+        ],
+        "price": "850"
+      },
+      {
+        "name": [
+          "Куриный суп",
+          "Chicken Soup"
+        ],
+        "description": [
+          "Куриное мясо, лапша, морковь, лук",
+          "Chicken, noodles, carrot, onion"
+        ],
+        "price": "350"
+      },
+      {
+        "name": [
+          "Чечевичный суп",
+          "Lentil Soup"
+        ],
+        "description": [
+          "Чечевица, репчатый лук, морковь, сухари",
+          "Lentils, onion, carrot, croutons"
+        ],
+        "price": "350"
+      }
+    ]
+  },
+  {
+    "id": "main",
+    "name": [
+      "Основные блюда",
+      "Main Courses"
+    ],
+    "items": [
+      {
+        "name": [
+          "Стейк Рибай",
+          "Ribeye Steak"
+        ],
+        "description": [
+          "С запечённым картофелем и грибами",
+          "Served with roasted potatoes and mushrooms"
+        ],
+        "price": "1 990"
+      },
+      {
+        "name": [
+          "Стейк на говяжьей кости",
+          "Bone-in Beef Steak"
+        ],
+        "description": [
+          "Картофель в мундире, соус демиглас",
+          "Jacket potato, demi-glace sauce"
+        ],
+        "price": "2 100"
+      },
+      {
+        "name": [
+          "Медальоны",
+          "Beef Medallions"
+        ],
+        "description": [
+          "Запечённый картофель в грибном соусе",
+          "Roasted potatoes with mushroom sauce"
+        ],
+        "price": "1 720"
+      },
+      {
+        "name": [
+          "Стейк из форели",
+          "Trout Steak"
+        ],
+        "description": [
+          "Филе форели, картофельное пюре",
+          "Trout fillet, mashed potatoes"
+        ],
+        "price": "1 650"
+      },
+      {
+        "name": [
+          "Куриный стейк",
+          "Chicken Steak"
+        ],
+        "description": [
+          "Куриное филе, шпинат, сливки, черри, пармезан",
+          "Chicken fillet, spinach, cream, cherry tomatoes, Parmesan"
+        ],
+        "price": "1 100"
+      }
+    ]
+  },
+  {
+    "id": "burgers",
+    "name": [
+      "Бургеры и сэндвичи",
+      "Burgers & Sandwiches"
+    ],
+    "items": [
+      {
+        "name": [
+          "Бургер с говядиной и чеддером",
+          "Beef & Cheddar Burger"
+        ],
+        "description": [
+          "Картофель фри и кетчуп",
+          "Served with fries and ketchup"
+        ],
+        "price": "720"
+      },
+      {
+        "name": [
+          "Бургер с курицей и чеддером",
+          "Chicken & Cheddar Burger"
+        ],
+        "description": [
+          "Картофель фри и кетчуп",
+          "Served with fries and ketchup"
+        ],
+        "price": "660"
+      },
+      {
+        "name": [
+          "Сэндвич с курицей и сыром",
+          "Chicken & Cheese Sandwich"
+        ],
+        "description": [
+          "Картофель фри и кетчуп",
+          "Served with fries and ketchup"
+        ],
+        "price": "660"
+      },
+      {
+        "name": [
+          "Сэндвич с говяжьей ветчиной и сыром",
+          "Beef Ham & Cheese Sandwich"
+        ],
+        "description": [
+          "Картофель фри и кетчуп",
+          "Served with fries and ketchup"
+        ],
+        "price": "660"
+      }
+    ]
+  },
+  {
+    "id": "pasta",
+    "name": [
+      "Паста",
+      "Pasta"
+    ],
+    "items": [
+      {
+        "name": [
+          "Альфредо",
+          "Alfredo"
+        ],
+        "description": [
+          "Фетучини, куриное филе, шампиньоны и вешенки",
+          "Fettuccine, chicken fillet, button and oyster mushrooms"
+        ],
+        "price": "650"
+      },
+      {
+        "name": [
+          "Болоньезе",
+          "Bolognese"
+        ],
+        "description": [
+          "Спагетти, мясной соус, говяжий фарш, морковь, сельдерей, томат",
+          "Spaghetti, meat sauce, ground beef, carrot, celery, tomato"
+        ],
+        "price": "650"
+      },
+      {
+        "name": [
+          "Арабьята",
+          "Arrabbiata"
+        ],
+        "description": [
+          "Острый томатный соус с базиликом",
+          "Spicy tomato sauce with basil"
+        ],
+        "price": "650"
+      }
+    ]
+  },
+  {
+    "id": "sides",
+    "name": [
+      "Гарниры",
+      "Sides"
+    ],
+    "items": [
+      {
+        "name": [
+          "Картофель фри",
+          "French Fries"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "300"
+      },
+      {
+        "name": [
+          "Запечённый картофель",
+          "Roasted Potato"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "230"
+      },
+      {
+        "name": [
+          "Рис",
+          "Rice"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "190"
+      }
+    ]
+  },
+  {
+    "id": "sauces",
+    "name": [
+      "Соусы",
+      "Sauces"
+    ],
+    "items": [
+      {
+        "name": [
+          "Сливочный соус",
+          "Cream Sauce"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "100"
+      },
+      {
+        "name": [
+          "Острый соус",
+          "Spicy Sauce"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "100"
+      },
+      {
+        "name": [
+          "Чесночно-перечный соус",
+          "Garlic & Pepper Sauce"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "100"
+      },
+      {
+        "name": [
+          "Соус на основе говяжьих косточек",
+          "Beef Bone Sauce"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "100"
+      }
+    ]
+  },
+  {
+    "id": "drinks",
+    "name": [
+      "Напитки",
+      "Drinks"
+    ],
+    "items": [
+      {
+        "name": [
+          "Вода 1 л",
+          "Water · 1 L"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "80"
+      },
+      {
+        "name": [
+          "Кока-Кола 250 мл",
+          "Coca-Cola · 250 ml"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "180"
+      },
+      {
+        "name": [
+          "Спрайт 300 мл",
+          "Sprite · 300 ml"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "175"
+      },
+      {
+        "name": [
+          "Фанта 250 мл",
+          "Fanta · 250 ml"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "150"
+      },
+      {
+        "name": [
+          "Кока-Кола 1 л",
+          "Coca-Cola · 1 L"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "250"
+      },
+      {
+        "name": [
+          "Латте 250 мл",
+          "Latte · 250 ml"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "240"
+      },
+      {
+        "name": [
+          "Капучино 250 мл",
+          "Cappuccino · 250 ml"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "230"
+      },
+      {
+        "name": [
+          "Американо 250 мл",
+          "Americano · 250 ml"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "200"
+      },
+      {
+        "name": [
+          "Двойной эспрессо 250 мл",
+          "Double Espresso · 250 ml"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "175"
+      },
+      {
+        "name": [
+          "Чёрный чай",
+          "Black Tea"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "139"
+      },
+      {
+        "name": [
+          "Зелёный чай",
+          "Green Tea"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "139"
+      },
+      {
+        "name": [
+          "Жасминовый чай",
+          "Jasmine Tea"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "159"
+      },
+      {
+        "name": [
+          "Чай с молоком",
+          "Tea with Milk"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "159"
+      }
+    ]
+  },
+  {
+    "id": "desserts",
+    "name": [
+      "Десерты",
+      "Desserts"
+    ],
+    "items": [
+      {
+        "name": [
+          "Тирамису",
+          "Tiramisu"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "600"
+      },
+      {
+        "name": [
+          "Шоколадный торт",
+          "Chocolate Cake"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "480"
+      },
+      {
+        "name": [
+          "Чизкейк",
+          "Cheesecake"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "550"
+      },
+      {
+        "name": [
+          "Манго-маракуйя",
+          "Mango & Passion Fruit"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "500"
+      },
+      {
+        "name": [
+          "Медовик",
+          "Honey Cake"
+        ],
+        "description": [
+          "",
+          ""
+        ],
+        "price": "480"
+      }
+    ]
+  }
+]
