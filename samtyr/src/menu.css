@@ -106,13 +106,3 @@ footer{background:#1a1412}
   .essay-photo figcaption,.essay-photo.burgers figcaption{inset:0 auto 0 0;min-width:43%;justify-content:flex-end;background:linear-gradient(90deg,#20120eea 1%,#20120eae 60%,transparent);padding:44px}
   .essay-photo.dessert figcaption{inset:0 0 0 auto;text-align:right;background:linear-gradient(270deg,#20120eea 1%,#20120eae 60%,transparent)}
 }
-
-/* Consistent 90° in-pan preparation illustrations, never serving photos. */
-#main .dishes{gap:18px}
-#main .dish--main{grid-template-columns:minmax(0,1fr) auto;align-content:start;gap:12px;padding:0 0 17px;border:1px solid #e5b99555;background:#281b19}
-#main .dish--main .dish-art{grid-column:1/-1;margin:0;position:relative;background:#211716;overflow:hidden}
-#main .dish--main .dish-art img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;border-radius:0}
-#main .dish--main .dish-art figcaption{position:absolute;inset:auto 0 0;padding:17px 11px 6px;color:#fff8eb;background:linear-gradient(transparent,#160e0be6);font-size:10px;letter-spacing:.025em;text-align:right}
-#main .dish--main .dishbody{padding-left:12px}
-#main .dish--main .price{padding:3px 12px 0 0}
-@media(min-width:800px){#main .dish--main .dishbody{padding-left:18px}#main .dish--main .price{padding-right:18px}}
