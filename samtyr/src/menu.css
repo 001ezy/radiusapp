@@ -110,3 +110,7 @@ footer{background:#1a1412}
 /* Chinese glyph fallbacks leave the current RU/EN typography untouched. */
 :lang(zh-CN) :is(.hero h1,.sectionhead h2,.roman,.dish h3){font-family:"Noto Serif CJK SC","Songti SC","SimSun",serif;font-weight:600;letter-spacing:0}
 :lang(zh-CN) :is(.dish p,.start,.categorybar,.footer-note),.language button[lang="zh-CN"]{font-family:"Noto Sans CJK SC","PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+
+/* Only the three supplied salad photographs. Original 4:3 crop is preserved. */
+#salads .dish-with-photo{display:grid;grid-template-columns:minmax(0,1fr) auto;align-content:start}
+#salads .dish-photo{display:block;grid-column:1/-1;width:100%;height:auto;aspect-ratio:4/3;object-fit:contain;border-radius:12px;margin-bottom:4px}
