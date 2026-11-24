@@ -3,39 +3,46 @@
     "id": "salads",
     "name": [
       "Салаты",
-      "Salads"
+      "Salads",
+      "沙拉"
     ],
     "items": [
       {
         "name": [
           "Цезарь с курицей",
-          "Chicken Caesar Salad"
+          "Chicken Caesar Salad",
+          "鸡肉凯撒沙拉"
         ],
         "description": [
           "Салат айсберг, соус «Цезарь», перепелиное яйцо, черри, пармезан, сухари",
-          "Iceberg lettuce, Caesar dressing, quail egg, cherry tomatoes, Parmesan, croutons"
+          "Iceberg lettuce, Caesar dressing, quail egg, cherry tomatoes, Parmesan, croutons",
+          "冰山生菜、凯撒酱、鹌鹑蛋、圣女果、帕玛森奶酪、面包丁"
         ],
         "price": "650"
       },
       {
         "name": [
           "Греческий салат",
-          "Greek Salad"
+          "Greek Salad",
+          "希腊沙拉"
         ],
         "description": [
           "Огурец, помидор, сладкий перец, листья салата, оливковое масло, лимонный сок",
-          "Cucumber, tomato, sweet pepper, lettuce, olive oil, lemon juice"
+          "Cucumber, tomato, sweet pepper, lettuce, olive oil, lemon juice",
+          "黄瓜、番茄、甜椒、生菜、橄榄油、柠檬汁"
         ],
         "price": "525"
       },
       {
         "name": [
           "Зелёный салат",
-          "Green Salad"
+          "Green Salad",
+          "绿蔬沙拉"
         ],
         "description": [
           "Микс салата, авокадо, огурец, черри, брокколи, пармезан, семечки",
-          "Mixed greens, avocado, cucumber, cherry tomatoes, broccoli, Parmesan, seeds"
+          "Mixed greens, avocado, cucumber, cherry tomatoes, broccoli, Parmesan, seeds",
+          "混合生菜、牛油果、黄瓜、圣女果、西兰花、帕玛森奶酪、籽仁"
         ],
         "price": "600"
       }
@@ -45,39 +52,46 @@
     "id": "soups",
     "name": [
       "Супы",
-      "Soups"
+      "Soups",
+      "汤品"
     ],
     "items": [
       {
         "name": [
           "Том-ям",
-          "Tom Yum Soup"
+          "Tom Yum Soup",
+          "冬阴功汤"
         ],
         "description": [
           "Паста том-ям, креветки, лемонграсс, листья лайма, кокосовое молоко",
-          "Tom Yum paste, shrimp, lemongrass, lime leaves, coconut milk"
+          "Tom Yum paste, shrimp, lemongrass, lime leaves, coconut milk",
+          "冬阴功酱、虾、香茅、青柠叶、椰奶"
         ],
         "price": "850"
       },
       {
         "name": [
           "Куриный суп",
-          "Chicken Soup"
+          "Chicken Soup",
+          "鸡肉面汤"
         ],
         "description": [
           "Куриное мясо, лапша, морковь, лук",
-          "Chicken, noodles, carrot, onion"
+          "Chicken, noodles, carrot, onion",
+          "鸡肉、面条、胡萝卜、洋葱"
         ],
         "price": "350"
       },
       {
         "name": [
           "Чечевичный суп",
-          "Lentil Soup"
+          "Lentil Soup",
+          "扁豆汤"
         ],
         "description": [
           "Чечевица, репчатый лук, морковь, сухари",
-          "Lentils, onion, carrot, croutons"
+          "Lentils, onion, carrot, croutons",
+          "扁豆、洋葱、胡萝卜、面包丁"
         ],
         "price": "350"
       }
@@ -87,61 +101,72 @@
     "id": "main",
     "name": [
       "Основные блюда",
-      "Main Courses"
+      "Main Courses",
+      "主菜"
     ],
     "items": [
       {
         "name": [
           "Стейк Рибай",
-          "Ribeye Steak"
+          "Ribeye Steak",
+          "肋眼牛排"
         ],
         "description": [
           "С запечённым картофелем и грибами",
-          "Served with roasted potatoes and mushrooms"
+          "Served with roasted potatoes and mushrooms",
+          "配烤土豆和蘑菇"
         ],
         "price": "1 990"
       },
       {
         "name": [
           "Стейк на говяжьей кости",
-          "Bone-in Beef Steak"
+          "Bone-in Beef Steak",
+          "带骨牛排"
         ],
         "description": [
           "Картофель в мундире, соус демиглас",
-          "Jacket potato, demi-glace sauce"
+          "Jacket potato, demi-glace sauce",
+          "配带皮烤土豆和法式浓缩肉汁"
         ],
         "price": "2 100"
       },
       {
         "name": [
           "Медальоны",
-          "Beef Medallions"
+          "Beef Medallions",
+          "牛肉圆切牛排"
         ],
         "description": [
           "Запечённый картофель в грибном соусе",
-          "Roasted potatoes with mushroom sauce"
+          "Roasted potatoes with mushroom sauce",
+          "配蘑菇酱烤土豆"
         ],
         "price": "1 720"
       },
       {
         "name": [
           "Стейк из форели",
-          "Trout Steak"
+          "Trout Steak",
+          "鳟鱼排"
         ],
         "description": [
           "Филе форели, картофельное пюре",
-          "Trout fillet, mashed potatoes"
+          "Trout fillet, mashed potatoes",
+          "鳟鱼柳、土豆泥"
         ],
         "price": "1 650"
       },
       {
         "name": [
           "Куриный стейк",
-          "Chicken Steak"
+          "Chicken Steak",
+          "鸡排"
         ],
         "description": [
           "Куриное филе, шпинат, сливки, черри, пармезан",
-          "Chicken fillet, spinach, cream, cherry tomatoes, Parmesan"
+          "Chicken fillet, spinach, cream, cherry tomatoes, Parmesan",
+          "鸡柳、菠菜、奶油、圣女果、帕玛森奶酪"
         ],
         "price": "1 100"
       }
@@ -151,50 +176,59 @@
     "id": "burgers",
     "name": [
       "Бургеры и сэндвичи",
-      "Burgers & Sandwiches"
+      "Burgers & Sandwiches",
+      "汉堡与三明治"
     ],
     "items": [
       {
         "name": [
           "Бургер с говядиной и чеддером",
-          "Beef & Cheddar Burger"
+          "Beef & Cheddar Burger",
+          "牛肉切达芝士汉堡"
         ],
         "description": [
           "Картофель фри и кетчуп",
-          "Served with fries and ketchup"
+          "Served with fries and ketchup",
+          "配薯条和番茄酱"
         ],
         "price": "720"
       },
       {
         "name": [
           "Бургер с курицей и чеддером",
-          "Chicken & Cheddar Burger"
+          "Chicken & Cheddar Burger",
+          "鸡肉切达芝士汉堡"
         ],
         "description": [
           "Картофель фри и кетчуп",
-          "Served with fries and ketchup"
+          "Served with fries and ketchup",
+          "配薯条和番茄酱"
         ],
         "price": "660"
       },
       {
         "name": [
           "Сэндвич с курицей и сыром",
-          "Chicken & Cheese Sandwich"
+          "Chicken & Cheese Sandwich",
+          "鸡肉芝士三明治"
         ],
         "description": [
           "Картофель фри и кетчуп",
-          "Served with fries and ketchup"
+          "Served with fries and ketchup",
+          "配薯条和番茄酱"
         ],
         "price": "660"
       },
       {
         "name": [
           "Сэндвич с говяжьей ветчиной и сыром",
-          "Beef Ham & Cheese Sandwich"
+          "Beef Ham & Cheese Sandwich",
+          "牛肉火腿芝士三明治"
         ],
         "description": [
           "Картофель фри и кетчуп",
-          "Served with fries and ketchup"
+          "Served with fries and ketchup",
+          "配薯条和番茄酱"
         ],
         "price": "660"
       }
@@ -204,39 +238,46 @@
     "id": "pasta",
     "name": [
       "Паста",
-      "Pasta"
+      "Pasta",
+      "意大利面"
     ],
     "items": [
       {
         "name": [
           "Альфредо",
-          "Alfredo"
+          "Alfredo",
+          "阿尔弗雷多宽面"
         ],
         "description": [
           "Фетучини, куриное филе, шампиньоны и вешенки",
-          "Fettuccine, chicken fillet, button and oyster mushrooms"
+          "Fettuccine, chicken fillet, button and oyster mushrooms",
+          "意式宽面、鸡柳、双孢菇和平菇"
         ],
         "price": "650"
       },
       {
         "name": [
           "Болоньезе",
-          "Bolognese"
+          "Bolognese",
+          "博洛尼亚肉酱意面"
         ],
         "description": [
           "Спагетти, мясной соус, говяжий фарш, морковь, сельдерей, томат",
-          "Spaghetti, meat sauce, ground beef, carrot, celery, tomato"
+          "Spaghetti, meat sauce, ground beef, carrot, celery, tomato",
+          "意大利细面、肉酱、牛肉末、胡萝卜、芹菜、番茄"
         ],
         "price": "650"
       },
       {
         "name": [
           "Арабьята",
-          "Arrabbiata"
+          "Arrabbiata",
+          "阿拉比亚塔辣味意面"
         ],
         "description": [
           "Острый томатный соус с базиликом",
-          "Spicy tomato sauce with basil"
+          "Spicy tomato sauce with basil",
+          "罗勒辣番茄酱"
         ],
         "price": "650"
       }
@@ -246,15 +287,18 @@
     "id": "sides",
     "name": [
       "Гарниры",
-      "Sides"
+      "Sides",
+      "配菜"
     ],
     "items": [
       {
         "name": [
           "Картофель фри",
-          "French Fries"
+          "French Fries",
+          "薯条"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -263,9 +307,11 @@
       {
         "name": [
           "Запечённый картофель",
-          "Roasted Potato"
+          "Roasted Potato",
+          "烤土豆"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -274,9 +320,11 @@
       {
         "name": [
           "Рис",
-          "Rice"
+          "Rice",
+          "米饭"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -288,15 +336,18 @@
     "id": "sauces",
     "name": [
       "Соусы",
-      "Sauces"
+      "Sauces",
+      "酱汁"
     ],
     "items": [
       {
         "name": [
           "Сливочный соус",
-          "Cream Sauce"
+          "Cream Sauce",
+          "奶油酱"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -305,9 +356,11 @@
       {
         "name": [
           "Острый соус",
-          "Spicy Sauce"
+          "Spicy Sauce",
+          "辣酱"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -316,9 +369,11 @@
       {
         "name": [
           "Чесночно-перечный соус",
-          "Garlic & Pepper Sauce"
+          "Garlic & Pepper Sauce",
+          "蒜香胡椒酱"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -327,9 +382,11 @@
       {
         "name": [
           "Соус на основе говяжьих косточек",
-          "Beef Bone Sauce"
+          "Beef Bone Sauce",
+          "牛骨酱"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -341,15 +398,18 @@
     "id": "drinks",
     "name": [
       "Напитки",
-      "Drinks"
+      "Drinks",
+      "饮品"
     ],
     "items": [
       {
         "name": [
           "Вода 1 л",
-          "Water · 1 L"
+          "Water · 1 L",
+          "饮用水 · 1 升"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -358,9 +418,11 @@
       {
         "name": [
           "Кока-Кола 250 мл",
-          "Coca-Cola · 250 ml"
+          "Coca-Cola · 250 ml",
+          "可口可乐 · 250 毫升"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -369,9 +431,11 @@
       {
         "name": [
           "Спрайт 300 мл",
-          "Sprite · 300 ml"
+          "Sprite · 300 ml",
+          "雪碧 · 300 毫升"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -380,9 +444,11 @@
       {
         "name": [
           "Фанта 250 мл",
-          "Fanta · 250 ml"
+          "Fanta · 250 ml",
+          "芬达 · 250 毫升"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -391,9 +457,11 @@
       {
         "name": [
           "Кока-Кола 1 л",
-          "Coca-Cola · 1 L"
+          "Coca-Cola · 1 L",
+          "可口可乐 · 1 升"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -402,9 +470,11 @@
       {
         "name": [
           "Латте 250 мл",
-          "Latte · 250 ml"
+          "Latte · 250 ml",
+          "拿铁 · 250 毫升"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -413,9 +483,11 @@
       {
         "name": [
           "Капучино 250 мл",
-          "Cappuccino · 250 ml"
+          "Cappuccino · 250 ml",
+          "卡布奇诺 · 250 毫升"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -424,9 +496,11 @@
       {
         "name": [
           "Американо 250 мл",
-          "Americano · 250 ml"
+          "Americano · 250 ml",
+          "美式咖啡 · 250 毫升"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -435,9 +509,11 @@
       {
         "name": [
           "Двойной эспрессо 250 мл",
-          "Double Espresso · 250 ml"
+          "Double Espresso · 250 ml",
+          "双份意式浓缩咖啡 · 250 毫升"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -446,9 +522,11 @@
       {
         "name": [
           "Чёрный чай",
-          "Black Tea"
+          "Black Tea",
+          "红茶"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -457,9 +535,11 @@
       {
         "name": [
           "Зелёный чай",
-          "Green Tea"
+          "Green Tea",
+          "绿茶"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -468,9 +548,11 @@
       {
         "name": [
           "Жасминовый чай",
-          "Jasmine Tea"
+          "Jasmine Tea",
+          "茉莉花茶"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -479,9 +561,11 @@
       {
         "name": [
           "Чай с молоком",
-          "Tea with Milk"
+          "Tea with Milk",
+          "奶茶"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -493,15 +577,18 @@
     "id": "desserts",
     "name": [
       "Десерты",
-      "Desserts"
+      "Desserts",
+      "甜点"
     ],
     "items": [
       {
         "name": [
           "Тирамису",
-          "Tiramisu"
+          "Tiramisu",
+          "提拉米苏"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -510,9 +597,11 @@
       {
         "name": [
           "Шоколадный торт",
-          "Chocolate Cake"
+          "Chocolate Cake",
+          "巧克力蛋糕"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -521,9 +610,11 @@
       {
         "name": [
           "Чизкейк",
-          "Cheesecake"
+          "Cheesecake",
+          "芝士蛋糕"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -532,9 +623,11 @@
       {
         "name": [
           "Манго-маракуйя",
-          "Mango & Passion Fruit"
+          "Mango & Passion Fruit",
+          "芒果百香果"
         ],
         "description": [
+          "",
           "",
           ""
         ],
@@ -543,9 +636,11 @@
       {
         "name": [
           "Медовик",
-          "Honey Cake"
+          "Honey Cake",
+          "蜂蜜蛋糕"
         ],
         "description": [
+          "",
           "",
           ""
         ],

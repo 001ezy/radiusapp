@@ -106,3 +106,7 @@ footer{background:#1a1412}
   .essay-photo figcaption,.essay-photo.burgers figcaption{inset:0 auto 0 0;min-width:43%;justify-content:flex-end;background:linear-gradient(90deg,#20120eea 1%,#20120eae 60%,transparent);padding:44px}
   .essay-photo.dessert figcaption{inset:0 0 0 auto;text-align:right;background:linear-gradient(270deg,#20120eea 1%,#20120eae 60%,transparent)}
 }
+
+/* Chinese glyph fallbacks leave the current RU/EN typography untouched. */
+:lang(zh-CN) :is(.hero h1,.sectionhead h2,.roman,.dish h3){font-family:"Noto Serif CJK SC","Songti SC","SimSun",serif;font-weight:600;letter-spacing:0}
+:lang(zh-CN) :is(.dish p,.start,.categorybar,.footer-note),.language button[lang="zh-CN"]{font-family:"Noto Sans CJK SC","PingFang SC","Microsoft YaHei",system-ui,sans-serif}
